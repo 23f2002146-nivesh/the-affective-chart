@@ -1,0 +1,7 @@
+{
+  "prompt": "A haunting, cinematic scene of a crowded Indian city where people are slowly fading into smoke, their bodies dissolving into grey polluted air, ghost-like silhouettes walking through thick smog, a child reaching out but disappearing into haze, no charts, no text, emotional, symbolic, dramatic lighting, high detail, realistic style, metaphor for invisible deaths caused by air pollution, magazine cover style --no graphs, no labels",
+  "model": "Gemini Image Generation",
+  "dataset_name": "Global Burden of Disease Air Pollution Dataset",
+  "dataset_url": "https://vizhub.healthdata.org/gbd-results/",
+  "insight": "Air pollution causes millions of invisible deaths every year, making people vanish silently."
+}
